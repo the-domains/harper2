@@ -1,4 +1,3 @@
-layout_spectrum: 0.7524604364298284
 typography_spectrum: 0.9232700981665403
 color:
   brandStrength: 0.6488115391694009
@@ -11,4 +10,6 @@ color:
     - '#FBA69F'
     - '#E76469'
     - '#5B5B3A'
+layout_spectrum: 0.7524604364298284
 name: Harper2
+title: Harper's Domain
