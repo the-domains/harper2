@@ -1,0 +1,14 @@
+layout_spectrum: 0.7524604364298284
+typography_spectrum: 0.9232700981665403
+color:
+  brandStrength: 0.6488115391694009
+  lightness: 0.1849134115036577
+  saturation: 0.03379344497807324
+  rhythmicContrast: 0.1576346333604306
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Harper2
