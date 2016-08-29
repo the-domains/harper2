@@ -6,9 +6,9 @@ color:
   saturation: 0.03379344497807324
   rhythmicContrast: 0.1576346333604306
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#9F7F68'
+    - '#FBA69F'
+    - '#E76469'
+    - '#5B5B3A'
 name: Harper2
