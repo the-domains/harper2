@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Harper2]]></title>
+        <description><![CDATA[Harper2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Aug 2016 01:55:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doctors Say This 3-Year-Old Is The Smartest Kid Ever. Do You Agree?]]></title>
+            <description><![CDATA[<article><h1>Doctors Say This 3-Year-Old Is The Smartest Kid Ever. Do You Agree?</h1><p>Three-year-old Alexis Martin has an IQ that's off the charts... literally. This young girl from Arizona is the youngest child to be accepted into Mensa (meaning her IQ scores in the 98th percentile) and she can recite books from memory. Now her parent face some unique challenges.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3b2cc5e6043933d2c6b2f6cc734a190/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_8SomUHo3-Q%2Fhqdefault.jpg&x=0&y=32"></article>]]></description>
+            <link>https://youtu.be/_8SomUHo3-Q</link>
+            <guid isPermaLink="false">22cdf772-d55a-45ec-bb90-a09642939428</guid>
+            <pubDate>Sun, 28 Aug 2016 01:55:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
