@@ -1,3 +1,4 @@
+layout_spectrum: 0.7524604364298284
 typography_spectrum: 0.9232700981665403
 color:
   brandStrength: 0.6488115391694009
@@ -5,12 +6,9 @@ color:
   saturation: 0.03379344497807324
   rhythmicContrast: 0.1576346333604306
   brandColors:
-    - '#FFFFFF'
-    - '#9F7F68'
-    - '#FBA69F'
-    - '#E76469'
-    - '#5B5B3A'
-layout_spectrum: 0.7524604364298284
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Harper2
-title: Harper's Domain
-description: Welcome to my World
